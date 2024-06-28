@@ -2,12 +2,14 @@
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=LGKARD&repo=LGKARD&countColor=PaleVioletRed)
 
 ```python
-Print("Hello");
+Print("Hello")
 ```
-
+```javascript
+console.log("Hello");
+```
 <br/>
 
-> Desenvolvedor Python
+> Desenvolvedor Back-end
 
 
 <br/>
