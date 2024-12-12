@@ -9,7 +9,7 @@ console.log("Hello");
 ```
 <br/>
 
-> Desenvolvedor Back-end
+> Desenvolvedor Full stack
 
 
 <br/>
