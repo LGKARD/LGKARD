@@ -46,6 +46,12 @@ console.log("Hello");
 </a>
 </p> 
 
+<p align="center">
+<a href="https://github.com/LGKARD">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=LGKARD&theme=dracula&count_private=true&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LGKARD&theme=dracula&layout=compact&langs_count=8"/>
+</a>
+</p>
 
 
 <br/>
