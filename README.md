@@ -11,6 +11,15 @@ console.log("Hello");
 
 > Desenvolvedor Full stack
 
+<h2 align="left">🗨 Sobre mim:</h2>
+🧑🏻‍🎓 Sou um entusiasta da programação, formado em Análise e Desenvolvimento de Sistemas, sempre em busca de novos aprendizados e desafios.
+
+###
+👨🏻‍💻 Desenvolvedor Full Stack com foco em criar soluções web modernas, eficientes e escaláveis. Atuo com tecnologias como HTML, CSS, JavaScript, TypeScript, React e Node.js, integrando front-end e back-end de forma fluida. Tenho experiência em projetos práticos que envolvem desde o desenvolvimento de interfaces responsivas até a construção de APIs e sistemas completos.
+
+🚀 Tenho aprimorado minhas habilidades para me tornar um profissional mais completo. Valorizo a qualidade em cada entrega e sou movido pela vontade de criar soluções eficientes e inovadoras. 
+
+
 
 <br/>
 <br/>
@@ -40,16 +49,12 @@ console.log("Hello");
 
 ## ⭐ Informações sobre minha conta GitHub
  <br/>
-<p align="center">
-<a href="https://github.com/LGKARD">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=LGKARD&theme=dracula"/>
-</a>
-</p> 
+
 
 <p align="center">
 <a href="https://github.com/LGKARD">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=LGKARD&theme=dracula&count_private=true&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LGKARD&theme=dracula&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LGKARD&theme=dracula&layout=compact&langs_count=4"/>
 </a>
 </p>
 
